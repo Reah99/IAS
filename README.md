@@ -1,8 +1,8 @@
-
+## Civil Services 
 
 ![alt text](<download (4).jpeg>)
 
-echo "# UPSC" >> README.md
+echo "# UPSC" >> README.m
 git init
 git add README.md
 git commit -m "first commit"
