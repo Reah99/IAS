@@ -7,3 +7,10 @@ https://www.youtube.com/watch?v=Ehq_VweFBuU
 ## 24 july
 3. UPSC Topper Mock Interview, Chahat Bajpai (Rank 59, CSE 2018)
 https://www.youtube.com/watch?v=X-8nttKX_-E
+
+
+## 27 july 
+4. The Real Cost of UPSC Preparation | What Aspirants Must Know | Cazual Talk With ‪@Thesalonikhanna‬
+https://www.youtube.com/watch?v=iLnxiUJ4oDg
+
+
